@@ -5,7 +5,11 @@
 Basado en la guía del repositorio [Microcontroladores_ECCI_2026-I - Lab06 UART]
 
 ---
+# . Integrantes
+* [Oscar Javier Sierra Chunza](https://github.com/Oscar-Sierra-Chunza)
 
+* [Ivan Felipe Mendez Sanchez](https://github.com/Tal-Ivanpng)
+  
 # 1. Objetivos de aprendizaje
 
 - Configurar el módulo UART del microcontrolador PIC para permitir la comunicación serial asíncrona.
