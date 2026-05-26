@@ -90,7 +90,7 @@ Se implementan dos funciones principales:
 
 Ejemplo:
 ```c
-UART_WriteString("Hola Mundo");
+UART_WriteString("Hola, UART funcionando!");
 ```
 
 ---
