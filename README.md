@@ -158,19 +158,21 @@ SERIAL_PORT = '/dev/ttyUSB0'
 2. Demostración práctica ante el docente.
 3. Documentación técnica del laboratorio que incluya:
    - Configuración del UART.
-   - 
+   - <img width="452" height="439" alt="PUTYY" src="https://github.com/user-attachments/assets/86e649f3-20d2-41e1-aed2-f0d8df81790c" />
    - Explicación de registros utilizados.
    - Código implementado.
    - Evidencias de funcionamiento.
-   - 
+   - <img width="1280" height="960" alt="6a5a6502-30ac-45c1-a16f-3bd43ccad233" src="https://github.com/user-attachments/assets/7216c35c-f680-4fd5-9b78-969830635fc2" />
    - Capturas del monitor serial.
-   - 
+   - <img width="960" height="1280" alt="1- PRUEB DE COMUNICACION UART" src="https://github.com/user-attachments/assets/3de83f6c-ee7b-494c-89ae-ff8e1272293d" />
+
 4. Explicación del funcionamiento del script en Python para recepción de datos UART.
-5. 
-6. Diagrama de conexiones utilizadas entre:
-   - PIC
-   - Conversor USB-UART
-   - Computador
+5. <img width="807" height="689" alt="GRAFICA DEL SCRIPT" src="https://github.com/user-attachments/assets/05937aae-2c1b-4785-bfd7-35b0d2d1c79a" />
+7. Diagrama de conexiones utilizadas entre:
+
+   <img width="743" height="806" alt="56302896-fdea-4c8b-a48c-12df84b8e5c3" src="https://github.com/user-attachments/assets/24993bf6-1229-4c96-9db7-87e63afc22fd" />
+   <img width="960" height="1280" alt="233aa073-6403-4961-9e25-cf7fe1a11026" src="https://github.com/user-attachments/assets/398c0a79-97c9-415d-b4f9-df1150a00082" />
+
 
 
 
